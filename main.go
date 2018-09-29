@@ -1,7 +1,7 @@
-package main
+package doit
 
 import "fmt"
 
-func main() {
-  fmt.Println("Hello 2.0.0")
+func DoIt() {
+  fmt.Println("Hello 1.0.0")
 }
