@@ -1,1 +1,1 @@
-module github.com/Bios-Marcel/Travis-Go-Playground/v2
+module github.com/Bios-Marcel/Travis-Go-Playground
